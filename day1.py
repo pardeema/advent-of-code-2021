@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 FILE1 = 'input1_1.txt'
 
 pt1 = 0
